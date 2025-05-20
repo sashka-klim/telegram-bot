@@ -1,0 +1,11 @@
+{
+    "total_users": 1,
+    "test_results": {
+        "Тест на кибербуллинг": {
+            "total": 1,
+            "scores": [
+                0
+            ]
+        }
+    }
+}
